@@ -2,6 +2,13 @@ body{
     background-color: #1f1f1f;
     color: white;
 }
-.citation{
+
+blockquote{
     padding: 20px;
+    background-color: red;
+    
+}
+
+.trash{
+background-color: #2b2b2b;
 }
