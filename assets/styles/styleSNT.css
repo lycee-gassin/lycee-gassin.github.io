@@ -3,21 +3,21 @@ body{
     background-color: #1f1f1f;
     color: white;
     margin-left: 30px;
+
+
+    width:50%;
+
+    overflow: hidden; //just in case if 
+
 }
-
-
-h1{
-    background-color: blue;
-    color: greenyellow;
-}
-
 
 blockquote{
     padding: 20px;
-    color: blue;
+    border-top-left-radius: 15px;
+    color: rgb(235, 228, 188);
     background-color: #2b2b2b;
 }
 
 .trash{
-background-color: #2b2b2b;
+background-color: #136e71;
 }
